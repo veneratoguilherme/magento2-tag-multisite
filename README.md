@@ -6,4 +6,5 @@ A ideia da extensão é inserir uma tag especifica apenas nas páginas CMS cadas
 A extensão insere um arquivo phtml no head em todas as páginas do Magento, porém, a tag é inserida apenas em páginas CMS.
 1º Primeiro é verificado se a extensão está habilitada e se a página atual é uma página CMS
 2º É retornado todas as páginas CMS, verificando se a página atual está na collection de páginas, caso sim, recupero o idioma da visão e faço a inserção da tag, seguindo o padrão abaixo:
-<link rel="alternate" hreflang="idioma" href="baseurl/cmsatual">
+
+&lt;link rel="alternate" hreflang="idioma" href="baseurl/cmsatual"&gt;
