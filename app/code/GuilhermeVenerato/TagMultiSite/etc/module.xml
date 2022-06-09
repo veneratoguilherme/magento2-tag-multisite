@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--
+/**
+ * Tag Multi Site
+ *
+ * GuilhermeVenerato_TagMultiSite
+ *
+ * @category  GuilhermeVenerato
+ * @package   GuilhermeVenerato_TagMultiSite
+ * @author    Guilherme Venerato <guilhermevenerato@hotmail.com>
+ * @copyright Copyright (c) 2022 Guilherme Venerato
+ * @license https://opensource.org/licenses/OSL-3.0.php Open Software License 3.0
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="GuilhermeVenerato_TagMultiSite" setup_version="1.0.0"/>
+</config>
